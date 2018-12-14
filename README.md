@@ -1,1 +1,1 @@
-# NewGitDemo
+# Stewart's First Git Demo
